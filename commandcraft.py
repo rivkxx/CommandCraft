@@ -66,3 +66,11 @@ def handle_keypress(stdscr):
 if __name__ == "__main__":
     content = ""
     curses.wrapper(handle_keypress)
+
+
+               __
+              / _)
+     _.----._/ /
+    /         /
+ __/ (  |  (  |
+/__.-'|_|--|__|
